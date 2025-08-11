@@ -33,7 +33,7 @@ Der Bot bietet insbesondere:
 - Die Funktionsverfügbarkeit hängt von Discord‑APIs, Rechten/Overwrites, Ratenlimits und der jeweiligen Guild‑Konfiguration ab.
 
 ## 4. Nutzungsvoraussetzungen
-- Ein gültiges Discord‑Konto und Einhaltung der [Discord‑Nutzungsbedingungen und ‑Richtlinien] (maßgeblich sind die offiziellen Dokumente von Discord).  
+- Ein gültiges Discord‑Konto und Einhaltung der [Discord‑Nutzungsbedingungen und ‑Richtlinien] (https://discord.com/terms).  
 - Mindestaltersvorgaben von Discord sind einzuhalten.  
 - Ausreichende Rechte in der Guild, sofern du Admin‑Funktionen aufrufst.  
 - Keine Umgehung von Rollen/Permissions oder sicherheitsrelevanten Maßnahmen.
