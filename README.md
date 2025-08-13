@@ -2,7 +2,7 @@
 
 ![VocalForge Logo](https://github.com/b1tk1ll3r/vocalforge/blob/main/logo.png)  
 [![Discord Bot](https://img.shields.io/badge/Discord-Invite-blue?logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1403851394452291584)
-[![License](https://img.shields.io/github/license/b1tk1ll3r/vocalforge)](LICENSE)
+[![Workflow](https://git.send.nrw/sendnrw/discord-auto-voice/actions/workflows/registry.yml)](LICENSE)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/b1tk1ll3r/vocalforge)](go.mod)
 
 > **VocalForge** is a Discord bot that creates **temporary private voice channels** on demand — with auto-cleanup, per-guild settings, and instant permissions.
